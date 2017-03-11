@@ -1,3 +1,7 @@
+# Tutorial purpose
+Fork repository to try docker automated build, this line add to check automated build trigger.
+
+
 # docker-kaldi-gstreamer-server
 Dockerfile for [kaldi-gstreamer-server](https://github.com/alumae/kaldi-gstreamer-server).
 
